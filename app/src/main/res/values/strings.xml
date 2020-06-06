@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DieGuess</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Die Guess 2020</string>
+    <string name="nav_header_subtitle">This project was made under the challenge <b>#30DaysOfKotlin</b></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Die Game 2020 Home</string>
+    <string name="menu_gallery">Game Arena</string>
+    <string name="menu_slideshow">Rules</string>
+
+    <string name="home_second">Die Game 2020</string>
+    <string name="intromsg">Let\'s Start the Game</string>
+    <string name="numEntry">Enter a Number between 1 and 6 (Inclusive)</string>
+    <string name="gameStart">Start the Game</string>
+    <string name="die_roll_2020">Die Roll 2020</string>
+    <string name="dice_game">Dice Game</string>
+    <string name="how_to_play">how to play</string>
+    <string name="contact_developer">Contact Developer</string>
+    <string name="die_guess">Die Guess</string>
+    <string name="this_project_is_made_in_the_challenge_3odaysofkotlin">This project is made in the challenge #30daysofKotlin</string>
+    <string name="dialogTitle">Contact Details</string>
+    <string name="dialogMessage">Email: avsadityavardhan@gmail.com \n Mobile Number: 6301819823</string>
+    <string name="hint">Number (1–6)</string>
+    <string name="Input">Enter a Number \n between 1–6</string>
+    <string name="check_my_guess">Check My Guess</string>
+    <string name="result">It\'s Results Time</string>
+    <string name="animate_dice">Animate Dice</string>
+    <string name="answerCorrect">You are a masterpiece</string>
+    <string name="answerWrong">You could try it again</string>
+    <string name="scoreText">Your Score is</string>
+    <string name="reset_to_zero">Reset to Zero</string>
+</resources>
